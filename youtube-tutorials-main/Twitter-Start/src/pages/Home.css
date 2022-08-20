@@ -1,34 +1,37 @@
 .pageIdentify{
     max-width: 100%;
     padding:20px;
-    background-color: #141d26ed;
+    background-color: #447424ed;
     position: sticky;
     top: 0px;
     color: white;
     font-weight: bold;
     font-size: 20px;
     z-index: 999;
+    
 }
 
 .mainContent {
-    
+    background-color: white;
 }
 
 .profileTweet {
     display: flex;
     justify-content: space-between;
-    border-bottom: 1px solid rgb(63, 63, 63) ;
+    border-bottom: 1px solid rgb(233, 68, 68);
     padding: 20px;
 }
 
 .tweetBox {
     width:89%;
+    background-color: black;
 }
 
 .profilePic {
     border-radius: 50%;
     width: 50px;
     height: 50px;
+    background-color: #447424ed;
 }
 
 .imgOrTweet {
@@ -39,7 +42,7 @@
 }
 
 .tweet {
-    background-color: #1DA1F2;
+    background-color: black;
     padding: 10px 20px;
     border-radius: 1000px;
     color: white;
@@ -57,6 +60,7 @@
     display: flex;
     justify-content: end;
     gap: 10px;
+    background-color: whitesmoke;
 }
 
 .imgDiv{
@@ -72,4 +76,5 @@
 .tweetImg {
     width: 98%;
     border-radius: 10px;
+    background-color: #447424ed;
 }
