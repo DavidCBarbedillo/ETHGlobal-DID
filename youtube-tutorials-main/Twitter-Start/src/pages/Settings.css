@@ -7,7 +7,7 @@
 }
 
 .pfp {
-    color:#68738D;
+    color:black;
     padding-left: 10px;
 }
 
@@ -36,7 +36,7 @@
     margin-top:10px;
     width:110px;
     height:110px;
-    border:5px solid #1DA1F2;
+    border:5px solid black;
 }
 
 .banner {
@@ -50,7 +50,7 @@
 }
 
 .save {
-    background-color: #1DA1F2;
+    background-color: black;
     padding: 10px 20px;
     border-radius: 1000px;
     color: white;

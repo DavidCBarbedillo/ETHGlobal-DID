@@ -5,10 +5,11 @@
     color: white;
     justify-content: space-between;
     display: flex;
+    background-color: #447424ed;
 }
 
 .feedTweet:hover {
-    background-color: #1c2834;
+    background-color: #3e6921ed;
 }
 
 .completeTweet {

@@ -99,13 +99,7 @@ const Settings = () => {
         onChange={(e)=> setUsername(e.target.value)} 
       />
 
-      <Input
-        label="Bio"
-        name="bioChange"
-        width="100%"
-        labelBgColor="#141d26"
-        onChange={(e)=> setBio(e.target.value)} 
-      /> 
+
 
       <div className="pfp">
         Profile Image (Your NFTs)
