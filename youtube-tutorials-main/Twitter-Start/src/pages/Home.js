@@ -115,7 +115,7 @@ const Home = () => {
                <TextArea
                  label=""
                  name="tweetTxtArea"
-                 value="Create Post"
+                 placeholder="Official Document - E.g. - Driver License"
                  type="text"
                  onChange={(e) => setTweet(e.target.value)}
                  width="95%"
@@ -140,7 +140,7 @@ const Home = () => {
                    <Icon fill="#1DA1F2" size={40} svg="image"></Icon>
                 </div>
                 <div className="tweetOptions">
-                <div className="tweet" onClick={saveTweet}>Share</div>
+                <div className="tweet" onClick={saveTweet}>Upload</div>
                 <div className="tweet" onClick={maticTweet} style={{ backgroundColor: "#8247e5" }}>
                   <Icon fill="#ffffff" size={20} svg="matic" />
                 </div>
@@ -148,7 +148,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <TweetInFeed profile={false}/>
+        
       </div>
     </>
   );

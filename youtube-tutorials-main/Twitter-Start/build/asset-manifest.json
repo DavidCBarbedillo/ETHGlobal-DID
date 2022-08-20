@@ -9,8 +9,8 @@
     "static/js/3.1032e506.chunk.js": "/static/js/3.1032e506.chunk.js",
     "static/js/3.1032e506.chunk.js.map": "/static/js/3.1032e506.chunk.js.map",
     "main.css": "/static/css/main.800c867d.chunk.css",
-    "main.js": "/static/js/main.f6d9f932.chunk.js",
-    "main.js.map": "/static/js/main.f6d9f932.chunk.js.map",
+    "main.js": "/static/js/main.786d30e8.chunk.js",
+    "main.js.map": "/static/js/main.786d30e8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ec5208e2.js",
     "runtime-main.js.map": "/static/js/runtime-main.ec5208e2.js.map",
     "static/js/6.89acd558.chunk.js": "/static/js/6.89acd558.chunk.js",
@@ -46,23 +46,23 @@
     "static/js/3.1032e506.chunk.js.LICENSE.txt": "/static/js/3.1032e506.chunk.js.LICENSE.txt",
     "static/js/6.89acd558.chunk.js.LICENSE.txt": "/static/js/6.89acd558.chunk.js.LICENSE.txt",
     "static/js/7.f231c57f.chunk.js.LICENSE.txt": "/static/js/7.f231c57f.chunk.js.LICENSE.txt",
-    "static/media/academy.cd9d7cda.png": "/static/media/academy.cd9d7cda.png",
+    "static/media/academy.03e804f6.png": "/static/media/academy.03e804f6.png",
     "static/media/canoe.80373a9f.png": "/static/media/canoe.80373a9f.png",
     "static/media/golf.11641d0d.png": "/static/media/golf.11641d0d.png",
-    "static/media/js.ca72a5f0.png": "/static/media/js.ca72a5f0.png",
-    "static/media/netflix.3e31deb9.jpeg": "/static/media/netflix.3e31deb9.jpeg",
+    "static/media/js.42ee9948.png": "/static/media/js.42ee9948.png",
+    "static/media/netflix.46f67ddb.jpeg": "/static/media/netflix.46f67ddb.jpeg",
     "static/media/pfp1.1c101b4e.png": "/static/media/pfp1.1c101b4e.png",
     "static/media/pfp2.7f691765.png": "/static/media/pfp2.7f691765.png",
     "static/media/pfp3.a1ea2c4b.png": "/static/media/pfp3.a1ea2c4b.png",
     "static/media/pfp4.4457efc8.png": "/static/media/pfp4.4457efc8.png",
     "static/media/pfp5.4c3edd4a.png": "/static/media/pfp5.4c3edd4a.png",
-    "static/media/spaceshooter.48dd61d6.jpeg": "/static/media/spaceshooter.48dd61d6.jpeg",
-    "static/media/youtube.8867cf50.png": "/static/media/youtube.8867cf50.png"
+    "static/media/spaceshooter.375360e7.jpeg": "/static/media/spaceshooter.375360e7.jpeg",
+    "static/media/youtube.f57513fc.png": "/static/media/youtube.f57513fc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ec5208e2.js",
     "static/js/6.89acd558.chunk.js",
     "static/css/main.800c867d.chunk.css",
-    "static/js/main.f6d9f932.chunk.js"
+    "static/js/main.786d30e8.chunk.js"
   ]
 }

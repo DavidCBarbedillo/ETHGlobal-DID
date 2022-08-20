@@ -12,28 +12,28 @@ const Rightbar = () => {
   const trends = [
     {
       img: spaceshooter,
-      text: "Squada Governance Token launching on Polygon Mumbai Testnet...",
-      link: "https://www.squada.io/",
+      text: "INE",
+      link: "https://www.ine.mx/",
     },
     {
       img: netflix,
-      text: "Welcome to NewFilmTech! Stream 2 Earn Web3 Video Platform...",
-      link: "https://fancy-alfajores-68cd19.netlify.app/",
+      text: "CURP",
+      link: "https://www.gob.mx/curp/",
     },
     {
       img: academy,
-      text: "C HA SOL NFT Collection. Now available on Solsea Marketplace...",
-      link: "https://solsea.io/creator/628a8eee03e7feb2607df6c4/nfts",
+      text: "RFC",
+      link: "https://www.mi-rfc.com.mx/",
     },
     {
       img: js,
-      text: "Visit our Metaverse. Pre-sale exhibition: Chamizal Virtual: Alebri-X...",
-      link: "https://www.squada.io/metaverso",
+      text: "SEMOVI",
+      link: "https://www.semovi.cdmx.gob.mx/tramites-y-servicios/vehiculos-particulares/licencias_menu",
     },
     {
       img: youtube,
-      text: "OpenSea welcomes Las Voces Matria Resistencia NFT Polygon Matic collection...",
-      link: "https://opensea.io/squada",
+      text: "Passport",
+      link: "https://www.gob.mx/pasaporte",
     },
   ];
 
@@ -50,7 +50,7 @@ const Rightbar = () => {
      </Input>
 
        <div className="trends">
-         News
+         Gov Agencies / Institutions
          {trends.map((e) => {
              return(
                <>

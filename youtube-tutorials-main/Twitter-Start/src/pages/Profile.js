@@ -29,7 +29,7 @@ const Profile = () => {
       </div>
       <div className="profileTabs">
           <div className="profileTab">
-          Your Posts
+          Official Documents
           </div>
       </div>
     </div>
