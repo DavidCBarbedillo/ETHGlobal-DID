@@ -32,8 +32,8 @@ const Rightbar = () => {
     },
     {
       img: youtube,
-      text: "Passport",
-      link: "https://www.gob.mx/pasaporte",
+      text: "SRE",
+      link: "https://www.gob.mx/tramites/ficha/pasaporte-ordinario-para-personas-mayores-de-edad/SRE112",
     },
   ];
 
